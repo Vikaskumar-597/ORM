@@ -48,9 +48,10 @@ admin.site.register(BankLoan,BankLoanAdmin)
 
 ## OUTPUT
 
+![Screenshot 2024-11-15 222740](https://github.com/user-attachments/assets/3a60d2db-987c-48f3-94af-06e553b13298)
+
 ![Screenshot 2024-11-15 224020](https://github.com/user-attachments/assets/8d15b9c4-1587-43e3-84d8-325dbb5be363)
 
-![Screenshot 2024-11-15 222740](https://github.com/user-attachments/assets/3a60d2db-987c-48f3-94af-06e553b13298)
 
 
 
